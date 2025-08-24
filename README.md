@@ -1,8 +1,8 @@
-<img align="right" height="155" src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif"  />
+<h2 align="left">Berry484 | C/C++ dev</h2>
 
 ###
 
-<h2 align="left">Berry484 | C/C++ dev</h2>
+<img align="right" height="155" src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif"  />
 
 ###
 
@@ -13,21 +13,21 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="56" alt="c logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56" alt="cplusplus logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="56" alt="cmake logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="56" alt="vim logo"  />
-  <img width="35" />
-  <img src="https://skillicons.dev/icons?i=java" height="56" alt="java logo"  />
-  <img width="35" />
-  <img src="https://skillicons.dev/icons?i=spring" height="56" alt="spring logo"  />
-  <img width="35" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="56" alt="postgresql logo"  />
-  <img width="35" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="56" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
 </div>
 
 ###

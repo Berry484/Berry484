@@ -41,5 +41,5 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
 </div>
 <br>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 

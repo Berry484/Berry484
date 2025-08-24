@@ -3,10 +3,12 @@
 <br>
 
 <h3 align="left">
-I'm Berry484, I primarily develop C/C++ security tools for Windows penetration testing and build full mobile applications for iOS and Android, plus their backend systems.
-</h3>
+I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security tools for Windows penetration testing and build full mobile applications for iOS and Android, plus their backend systems.</h3>
 
----
+<br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br clear="both">
 <div align="center">

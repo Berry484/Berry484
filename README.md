@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">I'm **Berry484**, I primarily develop C/C++ security tools for Windows penetration testing and build apps for iOS and Android.</h4>
+<h4 align="left">I'm Berry484, I primarily develop C/C++ security tools for Windows penetration testing and build full mobile applications for iOS and Android, plus their backend systems.</h4>
 
 ###
 

@@ -10,45 +10,36 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###### Languages & Syntax:
+###### Technical Skills:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="45" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="45" alt="go logo" />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" />
+
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" />
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" />
+
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo" />
 </div>
 
-###### Frontend Development:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
-</div>
-
-###### Backend & Frameworks:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
-</div>
-
-###### Deployment & Cloud Services:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
-</div>
-
-###### Database Management:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-</div>
-
-###### Development Environments:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo"  />
-</div>
 <br>
 <br>
 

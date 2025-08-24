@@ -9,10 +9,11 @@ I study <strong>Computer Science</strong>. I primarily develop C/C++ security to
 <br>
 
 <ul>
-  <li>💻 Develop C/C++ security tools for Windows penetration testing</li>
-  <li>📱 Build full mobile applications for <strong>iOS</strong> and <strong>Android</strong></li>
+  <li>🎓 Studying computer science</li>
+  <li>📚 Exploring new technologies in security, mobile, and cloud development</li>
+  <li>💻 Developing C/C++ security tools for Windows penetration testing</li>
+  <li>📱 Building full mobile applications for <strong>iOS</strong> and <strong>Android</strong></li>
   <li>🗄️ Design and implement backend systems for mobile applications</li>
-  <li>🎓 Exploring new technologies in security, mobile, and cloud development</li>
 </ul>
 
 

@@ -3,18 +3,18 @@
 <br>
 
 <h3 align="left">
-I study <b>Computer Science</b>. I primarily develop C/C++ security tools for Windows penetration testing and build full mobile applications for iOS and Android, plus their backend systems.
+I study <strong>Computer Science</strong>. I primarily develop C/C++ security tools for Windows penetration testing and build full mobile applications for iOS and Android, plus their backend systems.
 </h3>
 
 <br>
 
 <ul>
-  <li>🎓 Studying <b>Computer Science</b></li>
   <li>💻 Develop C/C++ security tools for Windows penetration testing</li>
-  <li>📱 Build full mobile applications for <b>iOS</b> and <b>Android</b></li>
-  <li>☁️ Design and implement backend systems for mobile applications</li>
-  <li>🌱 Exploring new technologies in security, mobile, and cloud development</li>
+  <li>📱 Build full mobile applications for <strong>iOS</strong> and <strong>Android</strong></li>
+  <li>🗄️ Design and implement backend systems for mobile applications</li>
+  <li>🎓 Exploring new technologies in security, mobile, and cloud development</li>
 </ul>
+
 
 
 <br>

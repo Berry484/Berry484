@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />

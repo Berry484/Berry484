@@ -8,7 +8,7 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ###### Technical Skills:
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
@@ -41,5 +41,5 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
 </div>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 

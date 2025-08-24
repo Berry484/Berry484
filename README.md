@@ -30,7 +30,6 @@ I'm Berry484, I primarily develop C/C++ security tools for Windows penetration t
 
 <img align="right" height="155" src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif" />
 
----
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Berry484&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"

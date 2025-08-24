@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="155" src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif"  />
-
-###
-
 <br clear="both">
 
 <h4 align="left">I'm **Berry484**, I primarily develop C/C++ security tools for Windows penetration testing and build apps for iOS and Android.</h4>
@@ -34,8 +30,22 @@
 
 ###
 
+<img align="left" height="155" src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif"  />
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Berry484/Berry484/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Berry484/Berry484/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Berry484/Berry484/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Berry484/Berry484/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Berry484&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###

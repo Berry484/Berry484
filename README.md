@@ -16,6 +16,11 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
   <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo" />
+  
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="45" alt="go logo" />
@@ -33,11 +38,6 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo" />
 </div>
 
 <br>

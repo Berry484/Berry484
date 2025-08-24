@@ -1,7 +1,3 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h2 align="left">Berry484 | C/C++ dev</h2>
 
 ###
@@ -43,31 +39,3 @@ Fork on Github
 </div>
 
 ###
-
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Privacy Policy
-Level Up Your README
-
-Anyone can use templates — but when you know what you’re doing, it shows.
-
-👉 Explore resources that will upgrade your skills — and your README. Start now.
-Clean Code
-
-A Handbook of Agile Software Craftsmanship by Uncle Bob.
-Get the book
-Clean Architecture
-
-Software Architecture Solutions from Uncle Bob.
-Get the book
-Explore More Books
-
-Browse the full list of curated titles to boost your coding skills.
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-
-Profile Readme Generator
-⚙ 

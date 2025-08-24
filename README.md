@@ -1,6 +1,6 @@
-<h2 align="left">Berry484 | C/C++ dev</h2>
-
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/Berry484">Berry484</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
 <h3 align="left">
 I'm Berry484, I primarily develop C/C++ security tools for Windows penetration testing and build full mobile applications for iOS and Android, plus their backend systems.

@@ -47,6 +47,7 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+<img align="left" height="155" src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif" />
 
 
 <div align="left">
@@ -54,7 +55,6 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
        height="150"
        alt="streak graph" />
 </div>
-<img align="left" height="155" src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif" />
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

@@ -42,17 +42,5 @@ I study <strong>Computer Science</strong>. I primarily develop C/C++ security to
 <br>
 <br>
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
----
-<br>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Berry484&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-       height="150"
-       alt="streak graph" />
-</div>
-<br>
-
 ---
 

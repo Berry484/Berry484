@@ -11,34 +11,20 @@ I'm Berry484, I study **Computer Science**. I primarily develop C/C++ security t
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Technical Skills:
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
-  <img width="12" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo" />
-  
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="45" alt="go logo" />
-
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" />
-
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
-
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" />
-
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" />
 </div>
+
 
 <br>
 <br>

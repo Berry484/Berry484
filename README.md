@@ -23,19 +23,22 @@ I study <strong>Computer Science</strong>. I primarily develop C/C++ security to
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 ---
 
-###### Technical Skills:
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" />
-</div>
+###### Languages
+<img src="https://skillicons.dev/icons?i=c" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" /> 
+<img src="https://skillicons.dev/icons?i=java" height="40" />
+
+###### Frameworks / Tools
+<img src="https://skillicons.dev/icons?i=flutter" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" /> 
+<img src="https://skillicons.dev/icons?i=cmake" height="40" /> 
+<img src="https://skillicons.dev/icons?i=vim" height="40" />
+
+###### DevOps / Database
+<img src="https://skillicons.dev/icons?i=docker" height="40" /> 
+<img src="https://skillicons.dev/icons?i=firebase" height="40" /> 
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />
+
 
 ---
 

@@ -39,20 +39,6 @@ I study <strong>Computer Science</strong>. I primarily develop C/C++ security to
 
 ---
 
-###### Technical Skills:
-
-<img src="https://skillicons.dev/icons?i=c" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" /> 
-<br>
-<img src="https://skillicons.dev/icons?i=java" height="45" /> 
-<img src="https://skillicons.dev/icons?i=flutter" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" /> 
-<img src="https://skillicons.dev/icons?i=docker" height="45" /> 
-<br>
-<img src="https://skillicons.dev/icons?i=firebase" height="45" /> 
-<img src="https://skillicons.dev/icons?i=postgres" height="45" />
 
 
 <br>

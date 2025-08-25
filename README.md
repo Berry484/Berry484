@@ -25,19 +25,18 @@ I study <strong>Computer Science</strong>. I primarily develop C/C++ security to
 
 ###### Technical Skills:
 
-<img src="https://skillicons.dev/icons?i=c" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" /> 
-<img src="https://skillicons.dev/icons?i=java" height="45" /> 
-<img src="https://skillicons.dev/icons?i=flutter" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" /> 
-<img src="https://skillicons.dev/icons?i=docker" height="45" /> 
-<img src="https://skillicons.dev/icons?i=firebase" height="45" /> 
-<img src="https://skillicons.dev/icons?i=postgres" height="45" />
-
-
-
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" />
+</div>
 
 <br>
 <br>

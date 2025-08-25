@@ -23,24 +23,19 @@ I study <strong>Computer Science</strong>. I primarily develop C/C++ security to
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 ---
 
-###### Languages
-<img src="https://skillicons.dev/icons?i=c" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" /> 
-<img src="https://skillicons.dev/icons?i=java" height="40" />
+###### Technical Skills:
 
-###### Frameworks / Tools
-<img src="https://skillicons.dev/icons?i=flutter" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" /> 
-<img src="https://skillicons.dev/icons?i=cmake" height="40" /> 
-<img src="https://skillicons.dev/icons?i=vim" height="40" />
+<img src="https://skillicons.dev/icons?i=c" height="45" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" /> 
+<img src="https://skillicons.dev/icons?i=java" height="45" /> 
+<img src="https://skillicons.dev/icons?i=flutter" height="45" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" /> 
+<img src="https://skillicons.dev/icons?i=docker" height="45" /> 
+<img src="https://skillicons.dev/icons?i=firebase" height="45" /> 
+<img src="https://skillicons.dev/icons?i=postgres" height="45" />
 
-###### DevOps / Database
-<img src="https://skillicons.dev/icons?i=docker" height="40" /> 
-<img src="https://skillicons.dev/icons?i=firebase" height="40" /> 
-<img src="https://skillicons.dev/icons?i=postgres" height="40" />
-
-
----
 
 
 

@@ -30,7 +30,6 @@ I study <strong>Computer Science</strong>. I primarily develop C/C++ security to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="45" alt="cmake logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />

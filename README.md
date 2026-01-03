@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="left">
-I study <strong>Computer Science</strong>. I primarily develop C/C++ security tools for Windows penetration testing and build full mobile applications for iOS and Android, plus their backend systems.
+I study <strong>Computer Science</strong>. I primarily develop and build full mobile applications for iOS and Android, plus their backend systems.
 </h3>
 
 <br>

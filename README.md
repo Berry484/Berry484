@@ -10,8 +10,6 @@ I study <strong>Computer Science</strong>. I primarily develop and build full mo
 
 <ul>
   <li>🎓 Studying computer science</li>
-  <li>📚 Exploring new technologies in security, mobile, and cloud development</li>
-  <li>💻 Developing C/C++ security tools for Windows penetration testing</li>
   <li>📱 Building full mobile applications for <strong>iOS</strong> and <strong>Android</strong></li>
   <li>🗄️ Design and implement backend systems for mobile applications</li>
 </ul>

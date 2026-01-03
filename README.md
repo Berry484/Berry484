@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there!
+<h1><b>Hi there</h1>
 <br>
 
 <h3 align="left">

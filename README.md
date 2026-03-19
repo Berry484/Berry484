@@ -2,17 +2,6 @@
 <h1><b>Hi there</h1>
 <br>
 
-<h3 align="left">
-I study <strong>Computer Science</strong>. I primarily develop and build full mobile applications for iOS and Android, plus their backend systems.
-</h3>
-
-<br>
-
-<ul>
-  <li>🎓 Studying computer science</li>
-  <li>📱 Building full mobile applications for <strong>iOS</strong> and <strong>Android</strong></li>
-  <li>🗄️ Design and implement backend systems for mobile applications</li>
-</ul>
 
 
 
